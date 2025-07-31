@@ -1,7 +1,7 @@
 {
   "name": "automacao-cpsi",
   "version": "1.0.0",
-  "description": "Sistema inteligente para geração de documentos CPSI",
+  "description": "Sistema inteligente para geração de documentos jurídicos CPSI",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
