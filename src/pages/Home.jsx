@@ -1,4 +1,4 @@
-o app está assim import React from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
 
 export default function Home() {
@@ -35,9 +35,5 @@ export default function Home() {
           className="bg-white shadow-lg rounded-xl p-6 border border-blue-200 hover:shadow-2xl transform hover:scale-105 transition-all"
         >
           <h2 className="text-2xl font-semibold text-purple-700 mb-2">📃 Contrato CPSI</h2>
-          <p className="text-gray-600">Gere automaticamente a minuta contratual baseada na LC 182/2021 e modelos oficiais.</p>
-        </Link>
-      </div>
-    </div>
-  );
-}
+          <p className="t
+          
