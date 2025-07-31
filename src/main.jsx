@@ -1,6 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import FluxoExemploCPSI from './components/FluxoExemploCPSI';
-import './style.css';
+import App from './App';
+import './styles/tailwind.css';
 
-ReactDOM.createRoot(document.getElementById('root')).render(<FluxoExemploCPSI />);
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);
